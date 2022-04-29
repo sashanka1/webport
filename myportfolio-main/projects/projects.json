@@ -1,8 +1,9 @@
 [
   {
     "name": "Overstock clone",
-    "desc": "Full-Stack overstock clone, which is a e-commerce website to buy home essentials",
+    "desc": "Full-Stack overstock clone, which is a e-commerce website to buy home essentials.   TECH-STACK:-HTML, CSS, JS",
     "image": "overstock",
+    "tech":"HTML,CSS,JS,EXPRESSJS,MONGODB,NODEJS",
     "category": "mern",
     "links": {
       "view": "https://musing-roentgen-03bf74.netlify.app/",
@@ -11,8 +12,9 @@
   },
   {
     "name": "Croma MERN",
-    "desc": "Full-Stack Croma clone with home page, product page,User authontication.",
+    "desc": "Full-Stack Croma clone with home page, product page,User authontication. TECH-STACK:-HTML, CSS, JS, EXPRESSJS, MONGODB, NODEJS",
     "image": "croma",
+    "tech":"HTML,CSS,JS,EXPRESSJS,MONGODB,NODEJS",
     "category": "mern",
     "links": {
       "view": "https://stupendous-pothos-c1584a.netlify.app",
@@ -21,3 +23,5 @@
   }
   
 ]
+
+
