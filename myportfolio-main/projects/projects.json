@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Overstock clone",
+    "desc": "Full-Stack overstock clone, which is a e-commerce website to buy home essentials",
+    "image": "overstock",
+    "category": "mern",
+    "links": {
+      "view": "https://musing-roentgen-03bf74.netlify.app/",
+      "code": "https://github.com/sashanka1/overstock_project"
+    }
+  },
+  {
+    "name": "Croma MERN",
+    "desc": "Full-Stack Croma clone with home page, product page,User authontication.",
+    "image": "croma",
+    "category": "mern",
+    "links": {
+      "view": "https://stupendous-pothos-c1584a.netlify.app",
+      "code": "https://github.com/Hashmat-Noorani/Croma"
+    }
+  }
+  
+]
