@@ -20,6 +20,17 @@
       "view": "https://stupendous-pothos-c1584a.netlify.app",
       "code": "https://github.com/Hashmat-Noorani/Croma"
     }
+  },
+  {
+    "name": "Bewakoof.com clone MERN",
+    "desc": "Full-Stack Bewakoof clone with home page, product page,User authontication, payment page , wishlist. TECH-STACK:-React Js, CSS, EXPRESSJS, MONGODB, NODEJS",
+    "image": "homebewakoof",
+    "tech":"React Js ,CSS,EXPRESSJS,MONGODB,NODEJS,Json server,Git",
+    "category": "mern",
+    "links": {
+      "view": "https://bewakoofcomclone.vercel.app/",
+      "code": "https://github.com/raushanapp/bewakoof.com"
+    }
   }
   
 ]
