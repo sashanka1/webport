@@ -21,6 +21,18 @@
       "code": "https://github.com/Hashmat-Noorani/Croma"
     }
   },
+
+  {
+    "name": "Calculator",
+    "desc": "React Calculator. TECH-STACK:-React Js, CSS",
+    "image": "calculator",
+    "tech":"React Js ,CSS,Netlify,Git",
+    "category": "React",
+    "links": {
+      "view": "sashanka-calculator.netlify.app",
+      "code": "sashanka-calculator.netlify.app"
+    }
+  },
   {
     "name": "Bewakoof.com clone MERN",
     "desc": "Full-Stack Bewakoof clone with home page, product page,User authontication, payment page , wishlist. TECH-STACK:-React Js, CSS, EXPRESSJS, MONGODB, NODEJS",
