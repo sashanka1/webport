@@ -29,7 +29,7 @@
     "tech":"React Js ,CSS,Netlify,Git",
     "category": "React",
     "links": {
-      "view": "sashanka-calculator.netlify.app",
+      "view": "https://sashanka-calculator.netlify.app/",
       "code": "https://sashanka-calculator.netlify.app/"
     }
   },
