@@ -34,10 +34,21 @@
     }
   },
   {
+    "name": "Todo_with_Backend_CRUD",
+    "desc": "React Todo. TECH-STACK:-React Js, Css, Mongodb, Node Js, Express",
+    "image": "todo",
+    "tech":"React Js , Css, Netlify, Git, Mongodb, Node Js, Express",
+    "category": "React",
+    "links": {
+      "view": "https://todo-with-backend-sashanka.netlify.app/",
+      "code": "https://todo-with-backend-sashanka.netlify.app/"
+    }
+  },
+  {
     "name": "Bewakoof.com clone MERN",
-    "desc": "Full-Stack Bewakoof clone with home page, product page,User authontication, payment page , wishlist. TECH-STACK:-React Js, CSS, EXPRESSJS, MONGODB, NODEJS",
+    "desc": "Full-Stack Bewakoof Clone Cith Home Page, Product Page,User Authontication, Payment Page , Wishlist. TECH-STACK:-React Js, Css, Express JS, Mongodb, Node JS",
     "image": "homebewakoof",
-    "tech":"React Js ,CSS,EXPRESSJS,MONGODB,NODEJS,Json server,Git",
+    "tech":"React Js ,Css,Express,Mongodb,Node JS,Json server,Git",
     "category": "mern",
     "links": {
       "view": "https://bewakoofcomclone.vercel.app/",
