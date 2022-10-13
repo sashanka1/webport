@@ -46,7 +46,7 @@
   },
   {
     "name": "Bewakoof.com clone MERN",
-    "desc": "Full-Stack Bewakoof Clone Cith Home Page, Product Page,User Authontication, Payment Page , Wishlist. TECH-STACK:-React Js, Css, Express JS, Mongodb, Node JS",
+    "desc": "Full-Stack Bewakoof Clone With Home Page, Product Page, User Authontication, Payment Page , Wishlist. TECH-STACK:-React Js, Css, Express JS, Mongodb, Node JS",
     "image": "homebewakoof",
     "tech":"React Js ,Css,Express,Mongodb,Node JS,Json server,Git",
     "category": "mern",
@@ -54,7 +54,30 @@
       "view": "https://bewakoofcomclone.vercel.app/",
       "code": "https://github.com/raushanapp/bewakoof.com"
     }
+  },
+  {
+    "name": "Aqua World",
+    "desc": "Full-Stack Web Application With Home Page, Product Page, User Authontication, Payment Page , Cart page,Serch Functionality. TECH-STACK:-React Js, Css, Express JS, Mongodb, Node JS",
+    "image": "AquaWorld",
+    "tech":"React Js ,Css,Express,Mongodb,Node JS, Git",
+    "category": "mern",
+    "links": {
+      "view": "https://aqua-world.vercel.app/",
+      "code": "https://github.com/sashanka1/Aqua_World"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "React Application With Current Day's Weather,Pressure,Humidity,Sunrise,Sunset And Eight days Weather Forcast,12 Hour Hourly Temperature With Graph,Ask For location To Show Weather Of Your Location,Serch Functionality. TECH-STACK:-React Js, Css",
+    "image": "weather",
+    "tech":"React Js ,Css, Git",
+    "category": "React",
+    "links": {
+      "view": "https://sashankaweatherapp.netlify.app/",
+      "code": "https://sashankaweatherapp.netlify.app/"
+    }
   }
+
   
 ]
 
