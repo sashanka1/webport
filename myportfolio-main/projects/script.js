@@ -41,6 +41,8 @@ function getProjects() {
 
 
 function showProjects(projects) {
+    //console.log("projects",projects)
+    //localStorage.setItem("projects",JSON.parse(projects));
     let projectsContainer = document.querySelector(".work .box-container");
     let projectsHTML = "";
     projects.forEach(project => {
