@@ -21,7 +21,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Sashanka Sekhar Samal";
-            $("#favicon").attr("href", "/assets/images/myimg.jpg");
+            $("#favicon").attr("href", "/assets/images/myt.jpg");
         }
         else {
             document.title = "Come Back To Portfolio";
